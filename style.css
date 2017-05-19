@@ -1,12 +1,12 @@
 h1,p{
            font-size:80px;
-           color:gray ;
+           color:white;
 }
 
 
 #special{
             font-size:40px;
-            color: blue;
+            color: red;
 }
 #bonito{
            height:1000px;
